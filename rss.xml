@@ -4,7 +4,7 @@
         <description><![CDATA[Rapha International ]]></description>
         <link>http://rapha.us/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Jan 2016 22:47:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jan 2016 21:10:35 GMT</lastBuildDate>
         <atom:link href="http://rapha.us/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>http://rapha.us/a3acba24-9190-4aff-8f96-90ce7a5f1891/index.html</link>
             <guid isPermaLink="false">a3acba24-9190-4aff-8f96-90ce7a5f1891</guid>
             <pubDate>Mon, 25 Jan 2016 22:47:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9c487f44-5512-4d0e-8139-87726354c83f.jpg">]]></description>
+            <link>http://rapha.us/64c2a178-5845-415c-a0da-f993023821be/index.html</link>
+            <guid isPermaLink="false">64c2a178-5845-415c-a0da-f993023821be</guid>
+            <pubDate>Tue, 26 Jan 2016 02:46:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -25,7 +32,7 @@
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a111d0ad-5b0c-4cd9-9eb8-80676d334dbf.jpg">]]></description>
             <link>http://rapha.us/35e96674-3d4d-4a22-8a05-4085c3a3a469/index.html</link>
             <guid isPermaLink="false">35e96674-3d4d-4a22-8a05-4085c3a3a469</guid>
-            <pubDate>Sun, 24 Jan 2016 15:48:37 GMT</pubDate>
+            <pubDate>Tue, 26 Jan 2016 21:09:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
