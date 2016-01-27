@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: 'The deep commitment of support and help, keeps a watchman on the wall continually!  '
-datePublished: '2016-01-27T20:57:51.057Z'
-dateModified: '2016-01-27T20:57:38.261Z'
+description: 'The deep commitment of support, helps keep a watchman on the wall continually!  '
+datePublished: '2016-01-27T22:04:28.737Z'
+dateModified: '2016-01-27T22:04:25.609Z'
 title: "\_Become a part of our "
 author: []
 sourcePath: _posts/2016-01-27-become-a-part-of-our.md
@@ -22,12 +22,14 @@ url: become-a-part-of-our/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/831e7a8d-403a-4c06-9a69-011fa8f5eff9.jpg)
+
 # Become a part of our 
 
-# Family and Friends!
+# Family & Friends!
 
 * Those that support us in prayer are our God given Friends. 
 
 * But those that support us in prayer and finances are our Family. 
 
-**The deep commitment of support and help, keeps a watchman on the wall continually!  **
+**The deep commitment of support, helps keep a watchman on the wall continually!  **
