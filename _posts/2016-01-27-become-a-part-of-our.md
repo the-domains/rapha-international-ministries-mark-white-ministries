@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: 'The deep commitment of support and help keeps a watchman on the wall continually!  '
-datePublished: '2016-01-27T20:56:54.933Z'
-dateModified: '2016-01-27T20:56:49.649Z'
+description: 'The deep commitment of support and help, keeps a watchman on the wall continually!  '
+datePublished: '2016-01-27T20:57:51.016Z'
+dateModified: '2016-01-27T20:57:38.261Z'
 title: "\_Become a part of our "
 author: []
 sourcePath: _posts/2016-01-27-become-a-part-of-our.md
@@ -30,4 +30,4 @@ _type: Article
 
 * But those that support us in prayer and finances are our Family. 
 
-**The deep commitment of support and help keeps a watchman on the wall continually!  **
+**The deep commitment of support and help, keeps a watchman on the wall continually!  **
