@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-27T22:28:41.750Z'
-dateModified: '2016-01-27T22:28:38.336Z'
+datePublished: '2016-01-28T04:02:02.414Z'
+dateModified: '2016-01-28T04:01:59.883Z'
 title: 'Media Communication '
 author: []
 sourcePath: _posts/2016-01-27-media-communication.md
@@ -26,4 +26,8 @@ _type: Article
 
 # Media Communication 
 
-We are pursuing every possible avenue in reaching around the world with the Word of God and the Power of His Holy Spirit.
+We are pursuing every possible avenue in reaching around the world with the Word of God and the Power of His Holy Spirit. 
+
+Youtube.com/1jrapha
+
+https://www.youtube.com/watch?v=BTvPcL38vr4
