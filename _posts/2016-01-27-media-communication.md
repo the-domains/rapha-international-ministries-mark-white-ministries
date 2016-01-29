@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-28T23:29:36.241Z'
-dateModified: '2016-01-28T23:29:31.824Z'
+datePublished: '2016-01-29T00:05:09.995Z'
+dateModified: '2016-01-28T23:53:29.028Z'
 title: 'Media Communication '
 author: []
 sourcePath: _posts/2016-01-27-media-communication.md
