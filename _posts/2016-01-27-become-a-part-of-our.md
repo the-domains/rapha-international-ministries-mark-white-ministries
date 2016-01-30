@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: 'The deep commitment of support, helps keep a watchman on the wall continually!  '
-datePublished: '2016-01-28T22:44:46.212Z'
-dateModified: '2016-01-28T22:41:54.659Z'
+datePublished: '2016-01-30T16:15:57.844Z'
+dateModified: '2016-01-30T16:15:55.229Z'
 title: "\_Become a part of our "
 author: []
 sourcePath: _posts/2016-01-27-become-a-part-of-our.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: become-a-part-of-our/index.html
-_type: Article
+_type: WebPage
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/831e7a8d-403a-4c06-9a69-011fa8f5eff9.jpg)
