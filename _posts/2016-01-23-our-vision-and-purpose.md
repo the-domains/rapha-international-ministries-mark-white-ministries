@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: A list of our God given responsiblity and desires in changing lives.
-datePublished: '2016-01-25T22:29:07.149Z'
-dateModified: '2016-01-25T22:28:59.194Z'
+datePublished: '2016-01-30T21:26:38.571Z'
+dateModified: '2016-01-30T16:46:15.373Z'
 title: '"Our Vision and Purpose"'
 author: []
 sourcePath: _posts/2016-01-23-our-vision-and-purpose.md
