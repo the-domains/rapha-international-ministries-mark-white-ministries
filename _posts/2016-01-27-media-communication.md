@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-30T21:27:46.231Z'
-dateModified: '2016-01-30T16:50:07.264Z'
+datePublished: '2016-01-30T21:29:20.318Z'
+dateModified: '2016-01-30T21:29:19.193Z'
 title: 'Media Communication '
 author: []
 sourcePath: _posts/2016-01-27-media-communication.md
@@ -28,9 +28,9 @@ _type: WebPage
 
 We are pursuing every possible avenue in reaching around the world with the Word of God and the Power of His Holy Spirit. 
 
-[www.youtube.com/1jrapha][0][][0]
+[_www.youtube.com/1jrapha_][0]
 
-[https://www.youtube.com/watch?v=BTvPcL38vr4 ][1]
+_[https://www.youtube.com/watch?v=BTvPcL38vr4 ][1]_
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4619abe8-f83e-4fcf-a064-35c8d592b05c.png)
 
 [0]: www.youtube.com/1jrapha
