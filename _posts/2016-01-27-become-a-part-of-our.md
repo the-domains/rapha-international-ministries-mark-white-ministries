@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'The deep commitment of support, helps keep a watchman on the wall continually!  '
-datePublished: '2016-01-30T21:26:57.515Z'
-dateModified: '2016-01-30T21:20:18.082Z'
-title: 'Family & Friends are Gods hands.'
+datePublished: '2016-01-31T13:56:08.229Z'
+dateModified: '2016-01-31T13:56:00.553Z'
+title: 'Family & Friends '
 author: []
 sourcePath: _posts/2016-01-27-become-a-part-of-our.md
 published: true
@@ -22,7 +22,7 @@ url: become-a-part-of-our/index.html
 _type: WebPage
 
 ---
-**Family & Friends are extensions of Gods hands.**
+**Family & Friends **
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/831e7a8d-403a-4c06-9a69-011fa8f5eff9.jpg)
 
 * Those that support us in prayer are our God given Friends. 
