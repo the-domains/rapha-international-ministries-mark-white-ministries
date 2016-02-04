@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-01-30T21:29:20.325Z'
-dateModified: '2016-01-30T21:29:19.193Z'
+description: We are pursuing every possible avenue in reaching around the world with the Word of God and the Power of His Holy Spirit.
+datePublished: '2016-02-04T22:20:57.311Z'
+dateModified: '2016-02-04T22:20:55.272Z'
 title: 'Media Communication '
 author: []
 sourcePath: _posts/2016-01-27-media-communication.md
