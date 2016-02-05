@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'The deep commitment of support, helps keep a watchman on the wall continually! '
-datePublished: '2016-02-05T02:25:18.355Z'
-dateModified: '2016-02-05T02:25:07.976Z'
+datePublished: '2016-02-05T06:07:29.160Z'
+dateModified: '2016-02-05T03:57:28.931Z'
 title: 'Family & Friends'
 author: []
 sourcePath: _posts/2016-01-27-become-a-part-of-our.md
@@ -23,7 +23,7 @@ _type: WebPage
 
 ---
 ****
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e18b16b7-d111-46a4-8b2b-cd8b93795674.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/b4af49869f129da42e3011ebe58962e292515e88.jpg)
 
 * Those that support us in the power of prayer are our God given Family and Friends. With the power of agreement the Glory of God is released in changing lives, taking miracles and healings to individuals in need. 
 
