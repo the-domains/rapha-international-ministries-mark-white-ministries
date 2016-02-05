@@ -3,11 +3,11 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
-description: 'The deep commitment of support, helps keep a watchman on the wall continually!  '
-datePublished: '2016-02-05T01:45:31.146Z'
-dateModified: '2016-02-05T01:45:27.962Z'
+description: 'The deep commitment of support, helps keep a watchman on the wall continually! '
+datePublished: '2016-02-05T01:46:37.226Z'
+dateModified: '2016-02-05T01:46:25.068Z'
 title: 'Family & Friends'
 author: []
 sourcePath: _posts/2016-01-27-become-a-part-of-our.md
