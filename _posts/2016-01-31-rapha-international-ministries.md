@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-25T15:15:29.125Z'
-dateModified: '2016-02-25T14:32:21.488Z'
+datePublished: '2016-02-25T19:10:29.491Z'
+dateModified: '2016-02-25T19:10:13.809Z'
 title: Rapha International Ministries
 author: []
 sourcePath: _posts/2016-01-31-rapha-international-ministries.md
@@ -27,3 +27,7 @@ _type: Article
 **Psalms 107:20**
 
 _**"He sent his word, and healed them, and delivered from their destruction's."**_
+
+_**Reaching the world with the power and love of Jesus Christ!**_
+
+_****_
