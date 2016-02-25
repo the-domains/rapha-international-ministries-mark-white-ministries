@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: We are pursuing every possible avenue in reaching around the world with the Word of God and the Power of His Holy Spirit.
-datePublished: '2016-02-25T04:19:02.763Z'
-dateModified: '2016-02-25T04:18:47.008Z'
-title: 'Media Communication '
+datePublished: '2016-02-25T04:30:34.768Z'
+dateModified: '2016-02-25T04:30:16.434Z'
+title: Media Connections
 author: []
 sourcePath: _posts/2016-01-27-media-communication.md
 published: true
@@ -24,9 +24,11 @@ _type: WebPage
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f0c35dfc-00f5-4db1-b5da-47a4eda647fd.jpg)
 
-# Media Communication 
+****
 
-We are pursuing every possible avenue in reaching around the world with the Word of God and the Power of His Holy Spirit. 
+**Media Connections**
+
+**We are pursuing every possible avenue in reaching around the world with the Word of God and the Power of His Holy Spirit. **
 
 [_www.youtube.com/1jrapha_][0]
 
