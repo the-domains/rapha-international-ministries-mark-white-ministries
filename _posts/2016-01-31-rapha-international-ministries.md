@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-01T12:51:21.808Z'
-dateModified: '2016-02-01T12:51:13.408Z'
+datePublished: '2016-02-25T01:07:55.729Z'
+dateModified: '2016-02-25T01:05:12.119Z'
 title: Rapha International Ministries
 author: []
 sourcePath: _posts/2016-01-31-rapha-international-ministries.md
@@ -26,4 +26,4 @@ _type: Article
 
 **Psalms 107:20**
 
-_**"He sent his word, and healed them, and delivered from their destructions."**_
+_**"He sent his word, and healed them, and delivered from their destruction's."**_
