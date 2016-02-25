@@ -1,6 +1,6 @@
 name: Rapha International Ministries / Mark White Ministries
 favicon: null
-layout_spectrum: 0.17058
+layout_spectrum: 0.11975
 typography_spectrum: 0.75361
 title: 'Rapha International '
 cta:
@@ -22,7 +22,7 @@ color:
     - '#f2f2f2'
     - '#0731ff'
     - '#4f87fa'
-  brandStrength: 0.75
+  brandStrength: 0.6875
   lightness: 0.5
   saturation: 0.5
   rhythmicContrast: 0.25
