@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: We are pursuing every possible avenue in reaching around the world with the Word of God and the Power of His Holy Spirit.
-datePublished: '2016-02-26T15:56:56.489Z'
-dateModified: '2016-02-26T15:55:50.637Z'
+datePublished: '2016-02-26T23:03:13.209Z'
+dateModified: '2016-02-26T23:02:54.861Z'
 title: Media Connections
 author: []
 sourcePath: _posts/2016-01-27-media-communication.md
@@ -28,10 +28,12 @@ _type: WebPage
 
 **Media Connections**
 
-**We are pursuing every possible avenue in reaching around the world with the Word of God and the Power of His Holy Spirit. ****We have over 70 videos available for your viewing at this link **[_www.youtube.com/1jrapha _][0][__][0]
+**We are pursuing every possible avenue in reaching around the world with the Word of God and the Power of His Holy Spirit. ****We have over 70 videos available for your viewing at this link. **
+
+_[https://www.youtube.com/1Jrapha][0]_
 
 _[https://www.youtube.com/watch?v=BTvPcL38vr4 ][1]_
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4619abe8-f83e-4fcf-a064-35c8d592b05c.png)
 
-[0]: www.youtube.com/1jrapha
+[0]: https://www.youtube.com/1Jrapha
 [1]: https://www.youtube.com/watch?v=BTvPcL38vr4
