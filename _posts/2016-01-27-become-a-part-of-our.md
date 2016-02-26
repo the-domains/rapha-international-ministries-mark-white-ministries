@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'The deep commitment of support, helps keep a watchman on the wall continually! '
-datePublished: '2016-02-25T04:26:03.541Z'
-dateModified: '2016-02-25T04:25:51.195Z'
+datePublished: '2016-02-26T15:46:43.778Z'
+dateModified: '2016-02-26T15:46:27.196Z'
 title: 'Family & Friends'
 author: []
 sourcePath: _posts/2016-01-27-become-a-part-of-our.md
@@ -29,4 +29,8 @@ _type: WebPage
 lives, taking miracles and healings to individuals from nation to 
 nation around the world. We appreciate those that support us in the power of prayer with financial support. You are our God given Family and Friends you are those which take hold of the vision in helping us be watchmen on the wall for Gods people. With your help and the power of the Holy Spirit. We are reaching nations while changing lives of thousands. To reach a million souls and to make disciples, we can do this with your help! 
 
-**The deep commitment of support, helps keep ****a watchman on the wall continually!  **
+**The deep commitment of support, helps keep ****a watchman on the wall continually! Those that want to invest in the display of Jesus word and power. You can support us monthly at this address**
+
+**You can help in the Harvest of Souls and lives being changed. **
+
+**_Rapha International Ministries - -  1412 Lyon St. Columbia, Tn. 38401_**
