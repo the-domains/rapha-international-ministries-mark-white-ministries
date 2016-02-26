@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: We are pursuing every possible avenue in reaching around the world with the Word of God and the Power of His Holy Spirit.
-datePublished: '2016-02-26T15:54:34.448Z'
-dateModified: '2016-02-26T15:54:29.106Z'
+datePublished: '2016-02-26T15:56:56.489Z'
+dateModified: '2016-02-26T15:55:50.637Z'
 title: Media Connections
 author: []
 sourcePath: _posts/2016-01-27-media-communication.md
