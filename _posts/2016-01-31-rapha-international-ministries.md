@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-27T19:20:30.090Z'
-dateModified: '2016-02-27T19:20:19.835Z'
+datePublished: '2016-02-27T20:06:06.552Z'
+dateModified: '2016-02-27T20:05:59.703Z'
 title: Rapha International Ministries
 author: []
 sourcePath: _posts/2016-01-31-rapha-international-ministries.md
@@ -28,6 +28,6 @@ _type: Article
 
 _**"He sent his word, and healed them, and delivered from their destruction's."**_
 
-_**Reaching the world with the power and love of Jesus Christ!**_
+_**Reaching the world with the Healing Power and Love of Jesus Christ!**_
 
 _****_
