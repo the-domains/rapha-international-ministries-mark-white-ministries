@@ -1,13 +1,13 @@
 ---
 inFeed: false
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: We are pursuing every possible avenue in reaching around the world with the Word of God and the Power of His Holy Spirit.
-datePublished: '2016-02-27T21:02:02.525Z'
-dateModified: '2016-02-27T21:01:56.825Z'
+datePublished: '2016-03-03T19:00:26.122Z'
+dateModified: '2016-03-03T14:24:38.388Z'
 title: Media Connections
 author: []
 sourcePath: _posts/2016-01-27-media-communication.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: media-communication/index.html
-_type: WebPage
+_type: Blurb
 
 ---
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/24dddf645ffc7c8b29cbde8d7835df94a89008ac.jpg)
