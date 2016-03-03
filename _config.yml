@@ -1,4 +1,19 @@
-analytics: {}
+name: Rapha International Ministries / Mark White Ministries
+favicon: null
+layout_spectrum: 0.50812
+typography_spectrum: 0.75361
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#000000'
@@ -8,11 +23,6 @@ color:
     - '#4f87fa'
   brandStrength: 0.5
   lightness: 0.375
-  rhythmicContrast: 0.5
   saturation: 0.4375
-cta: {}
-layout_spectrum: 0.50812
-name: Rapha International Ministries / Mark White Ministries
-opengraph: {}
+  rhythmicContrast: 0.5
 purpose: []
-typography_spectrum: 0.75361
