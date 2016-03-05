@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-05T01:38:45.526Z'
-dateModified: '2016-03-05T01:38:37.586Z'
-title: 'Rapha International '
+datePublished: '2016-03-05T01:50:14.206Z'
+dateModified: '2016-03-05T01:49:59.965Z'
+title: Rapha International Ministries
 author: []
 sourcePath: _posts/2016-01-31-rapha-international-ministries.md
 published: true
