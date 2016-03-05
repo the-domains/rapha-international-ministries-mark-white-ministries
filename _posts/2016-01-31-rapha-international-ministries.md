@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-05T01:37:28.703Z'
-dateModified: '2016-03-05T01:37:17.563Z'
+datePublished: '2016-03-05T01:38:45.526Z'
+dateModified: '2016-03-05T01:38:37.586Z'
 title: 'Rapha International '
 author: []
 sourcePath: _posts/2016-01-31-rapha-international-ministries.md
@@ -26,7 +26,7 @@ _type: Article
 
 **Psalms 107:20**
 
-_**"He sent his word, and healed them, and delivered from their destruction's."**_
+_**"He sent his word, and healed them, and delivered them from all their destruction's."**_
 
 _**"Doing the works of Jesus by precept and example."**_
 
