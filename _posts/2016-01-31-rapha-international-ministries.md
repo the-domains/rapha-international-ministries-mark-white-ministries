@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Mark White Ministries
-datePublished: '2016-03-05T01:33:15.280Z'
-dateModified: '2016-03-05T01:32:47.152Z'
+datePublished: '2016-03-05T01:35:14.835Z'
+dateModified: '2016-03-05T01:35:10.257Z'
 title: Rapha International Ministries
 author: []
 sourcePath: _posts/2016-01-31-rapha-international-ministries.md
@@ -28,6 +28,6 @@ _type: Article
 
 _**"He sent his word, and healed them, and delivered from their destruction's."**_
 
-_**"Reaching the world with the Healing Power and Love of Jesus Christ"!**_
+_**"Doing the works of Jesus by precept and example."**_
 
 _****_
