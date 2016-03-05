@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: Doctrinal Statement
-datePublished: '2016-03-05T22:41:17.662Z'
-dateModified: '2016-03-05T22:30:26.117Z'
-title: What we believe?
+datePublished: '2016-03-05T22:44:09.453Z'
+dateModified: '2016-03-05T22:43:53.163Z'
+title: What we believe
 author: []
 sourcePath: _posts/2016-03-05-what-we-believe.md
 published: true
@@ -24,7 +24,7 @@ _type: WebPage
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/23f9a3f5-afe7-43fe-83c8-e7bb10c9df37.jpg)
 
-**What we believe & live by! **
+## What we believe & live by! 
 
 1. _[The Holy Scriptures are Inspired][0]_
 2. _[There is only One True God][1]_
