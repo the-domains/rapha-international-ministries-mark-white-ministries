@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-02-28T20:23:57.830Z'
-dateModified: '2016-02-28T20:21:58.681Z'
+description: Mark White Ministries
+datePublished: '2016-03-05T01:21:09.494Z'
+dateModified: '2016-03-05T01:20:58.925Z'
 title: Rapha International Ministries
 author: []
 sourcePath: _posts/2016-01-31-rapha-international-ministries.md
