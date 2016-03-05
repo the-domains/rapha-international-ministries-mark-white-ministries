@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Doctrinal Statement
-datePublished: '2016-03-05T22:44:09.453Z'
-dateModified: '2016-03-05T22:43:53.163Z'
+datePublished: '2016-03-05T22:45:11.660Z'
+dateModified: '2016-03-05T22:44:16.318Z'
 title: What we believe
 author: []
 sourcePath: _posts/2016-03-05-what-we-believe.md
