@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'The deep commitment of support, helps keep a watchman on the wall continually! '
-datePublished: '2016-03-06T00:47:16.558Z'
-dateModified: '2016-03-06T00:47:12.991Z'
+datePublished: '2016-03-06T00:55:43.675Z'
+dateModified: '2016-03-06T00:55:04.116Z'
 title: 'Family & Friends'
 author: []
 sourcePath: _posts/2016-01-27-become-a-part-of-our.md
@@ -22,8 +22,6 @@ url: become-a-part-of-our/index.html
 _type: WebPage
 
 ---
-t
-
 ****
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/b4af49869f129da42e3011ebe58962e292515e88.jpg)
 
