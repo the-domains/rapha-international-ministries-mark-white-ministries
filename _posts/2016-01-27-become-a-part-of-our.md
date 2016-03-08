@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: 'The deep commitment of support, helps keep a watchman on the wall continually! '
-datePublished: '2016-03-06T01:06:27.999Z'
-dateModified: '2016-03-06T01:06:18.654Z'
+description: 'You can help in the Harvest of Souls and lives being changed. '
+datePublished: '2016-03-08T16:39:30.159Z'
+dateModified: '2016-03-08T16:38:38.837Z'
 title: 'Family & Friends'
 author: []
 sourcePath: _posts/2016-01-27-become-a-part-of-our.md
@@ -34,8 +34,10 @@ Your deep commitment of support, helps keep a watchman on the wall continually! 
 
 **You can help in the Harvest of Souls and lives being changed. **
 
-**Make your checks out to Rapha International Ministries or **
+**Make your checks out to _Rapha International Ministries_ or **
 
-**Mark White Ministries and mail to:**
+**_Mark White Ministries_ and mail to:**
 
-**Rapha International Ministries****~ 1412 Lyon St. Columbia, Tn. 38401**
+## _**Rapha International Ministries**_**~ **
+
+## ****1412 Lyon St. Columbia, Tn. 38401
