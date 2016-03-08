@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-03-08T15:56:49.493Z'
-dateModified: '2016-03-08T05:01:03.832Z'
+description: 'Psalms 107:20'
+datePublished: '2016-03-08T16:34:43.213Z'
+dateModified: '2016-03-08T15:56:57.409Z'
 title: Rapha International Ministries
 author: []
 sourcePath: _posts/2016-01-31-rapha-international-ministries.md
