@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-08T16:36:40.405Z'
-dateModified: '2016-03-08T16:36:13.966Z'
+datePublished: '2016-03-08T19:05:41.988Z'
+dateModified: '2016-03-08T19:05:34.149Z'
 title: Media Connections
 author: []
 sourcePath: _posts/2016-01-27-media-communication.md
@@ -38,6 +38,12 @@ _[https://www.youtube.com/watch?v=BTvPcL38vr4 ][1]_
 
 [https://www.youtube.com/watch?v=08iVc-zGPrg&feature=share][3]
 
+[https://www.facebook.com/Mark-D-White-139696256107764/][4]
+
+[https://twitter.com/1rapha][5]
+
+[][5]
+
 [][3]
 
 [][3]
@@ -51,3 +57,5 @@ _[https://www.youtube.com/watch?v=BTvPcL38vr4 ][1]_
 [1]: https://www.youtube.com/watch?v=BTvPcL38vr4
 [2]: https://www.youtube.com/watch?v=xTZlLvDsZM4
 [3]: https://www.youtube.com/watch?v=08iVc-zGPrg&feature=share
+[4]: https://www.facebook.com/Mark-D-White-139696256107764/
+[5]: https://twitter.com/1rapha
