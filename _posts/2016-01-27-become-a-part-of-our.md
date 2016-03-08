@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'You can help in the Harvest of Souls and lives being changed. '
-datePublished: '2016-03-08T16:44:18.944Z'
-dateModified: '2016-03-08T16:44:18.427Z'
-title: 'Family & Friends'
+datePublished: '2016-03-08T19:42:55.233Z'
+dateModified: '2016-03-08T19:42:26.826Z'
+title: 'Family & Friends!'
 author: []
 sourcePath: _posts/2016-01-27-become-a-part-of-our.md
 published: true
