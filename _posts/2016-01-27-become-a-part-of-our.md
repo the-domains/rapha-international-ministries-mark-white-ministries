@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'You can help in the Harvest of Souls and lives being changed. '
-datePublished: '2016-03-08T16:41:17.504Z'
-dateModified: '2016-03-08T16:40:51.377Z'
+datePublished: '2016-03-08T16:44:18.944Z'
+dateModified: '2016-03-08T16:44:18.427Z'
 title: 'Family & Friends'
 author: []
 sourcePath: _posts/2016-01-27-become-a-part-of-our.md
@@ -34,10 +34,10 @@ Your deep commitment of support, helps keep a watchman on the wall continually! 
 
 **You can help in the Harvest of Souls and lives being changed. **
 
-**Make your checks out to _Rapha International Ministries_ or **
+Make your checks out to _Rapha International Ministries_ or 
 
-**_Mark White Ministries_ and mail to:**
+_Mark White Ministries_ and mail to:
 
-## **Rapha International Ministries**
+**Rapha International Ministries**
 
-## 1412 Lyon St. Columbia, Tn. 38401
+**1412 Lyon Street. Columbia, Tennessee 38401      USA**
