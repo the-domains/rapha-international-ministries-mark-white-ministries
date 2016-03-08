@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'What we believe & live by! '
-datePublished: '2016-03-08T19:42:02.657Z'
-dateModified: '2016-03-08T19:41:03.892Z'
+datePublished: '2016-03-08T19:42:38.485Z'
+dateModified: '2016-03-08T19:42:31.370Z'
 title: 'What we believe!'
 author: []
 sourcePath: _posts/2016-03-05-what-we-believe.md
