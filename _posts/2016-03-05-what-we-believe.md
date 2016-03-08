@@ -5,10 +5,10 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: Doctrinal Statement
-datePublished: '2016-03-05T22:51:32.984Z'
-dateModified: '2016-03-05T22:51:29.744Z'
-title: What we believe
+description: 'What we believe & live by! '
+datePublished: '2016-03-08T19:42:02.657Z'
+dateModified: '2016-03-08T19:41:03.892Z'
+title: 'What we believe!'
 author: []
 sourcePath: _posts/2016-03-05-what-we-believe.md
 published: true
