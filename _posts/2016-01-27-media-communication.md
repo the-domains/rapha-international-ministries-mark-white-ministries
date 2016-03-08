@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-08T19:07:37.259Z'
-dateModified: '2016-03-08T19:07:24.569Z'
+datePublished: '2016-03-08T19:44:01.509Z'
+dateModified: '2016-03-08T19:43:53.195Z'
 title: Media Connections
 author: []
 sourcePath: _posts/2016-01-27-media-communication.md
@@ -53,7 +53,7 @@ _[https://www.youtube.com/watch?v=BTvPcL38vr4 ][1]_
 [][3]
 
 [][2]
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4619abe8-f83e-4fcf-a064-35c8d592b05c.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/7e16616c880e86a67da8b9f905f8f9bb91e4c461.png)
 
 [0]: https://www.youtube.com/1Jrapha
 [1]: https://www.youtube.com/watch?v=BTvPcL38vr4
