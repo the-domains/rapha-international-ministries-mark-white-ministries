@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-08T19:05:41.988Z'
-dateModified: '2016-03-08T19:05:34.149Z'
+datePublished: '2016-03-08T19:07:37.259Z'
+dateModified: '2016-03-08T19:07:24.569Z'
 title: Media Connections
 author: []
 sourcePath: _posts/2016-01-27-media-communication.md
@@ -41,6 +41,8 @@ _[https://www.youtube.com/watch?v=BTvPcL38vr4 ][1]_
 [https://www.facebook.com/Mark-D-White-139696256107764/][4]
 
 [https://twitter.com/1rapha][5]
+
+[~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~][5]
 
 [][5]
 
