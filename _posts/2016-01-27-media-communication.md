@@ -5,10 +5,10 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-03-08T19:44:56.862Z'
-dateModified: '2016-03-08T19:44:51.146Z'
-title: Media Connections
+description: Media Connections
+datePublished: '2016-03-09T00:32:40.387Z'
+dateModified: '2016-03-09T00:32:28.990Z'
+title: 'Media Connections!'
 author: []
 sourcePath: _posts/2016-01-27-media-communication.md
 published: true
@@ -26,7 +26,7 @@ _type: WebPage
 
 ****
 
-**Media Connections**
+**Media Connections!**
 
 **We are pursuing every possible avenue in reaching around the world with the Word of God and the Power of His Holy Spirit. ****We have over 70 videos available for your viewing at this link. **
 
