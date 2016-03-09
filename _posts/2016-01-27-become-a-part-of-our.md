@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'You can help in the Harvest of Souls and lives being changed. '
-datePublished: '2016-03-09T17:21:44.643Z'
-dateModified: '2016-03-09T17:21:36.110Z'
+datePublished: '2016-03-09T17:22:26.671Z'
+dateModified: '2016-03-09T17:22:17.959Z'
 title: 'Family & Friends!'
 author: []
 sourcePath: _posts/2016-01-27-become-a-part-of-our.md
@@ -22,7 +22,7 @@ url: become-a-part-of-our/index.html
 _type: WebPage
 
 ---
-****
+**Donations**
 
 We thank God for those which support us in prayer and finances. It is very costly and takes a lot of finances to travel, hold crusades, minister to ministers in changing lives.  With your power of agreement, the Glory of God is released in changing 
 lives. We are taking miracles and healings to individuals and to the thousands. From nation to 
