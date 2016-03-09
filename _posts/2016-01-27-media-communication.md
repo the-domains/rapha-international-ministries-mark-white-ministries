@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-09T00:47:20.115Z'
-dateModified: '2016-03-09T00:32:47.598Z'
+datePublished: '2016-03-09T03:57:48.051Z'
+dateModified: '2016-03-09T03:57:17.867Z'
 title: 'Media Connections!'
 author: []
 sourcePath: _posts/2016-01-27-media-communication.md
@@ -29,6 +29,8 @@ _type: WebPage
 **Media Connections!**
 
 **We are pursuing every possible avenue in reaching around the world with the Word of God and the Power of His Holy Spirit. ****We have over 70 videos available for your viewing at this link. **
+
+**Periscope - Mark D. White  **
 
 [_https://www.youtube.com/1Jrapha_][0]
 
