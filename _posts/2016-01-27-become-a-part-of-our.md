@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: 'You can help in the Harvest of Souls and lives being changed. '
-datePublished: '2016-03-09T17:22:26.671Z'
-dateModified: '2016-03-09T17:22:17.959Z'
+description: Donations
+datePublished: '2016-03-09T19:10:41.258Z'
+dateModified: '2016-03-09T19:10:38.520Z'
 title: 'Family & Friends!'
 author: []
 sourcePath: _posts/2016-01-27-become-a-part-of-our.md
@@ -34,9 +34,7 @@ Your deep commitment of support, helps keep a watchman on the wall continually! 
 
 **You can help in the Harvest of Souls and lives being changed. **
 
-In your donations make your checks out to _Rapha International Ministries_ or 
-
-_Mark White Ministries_ and mail to:
+In your donations make your checks payable to _Rapha International Ministries_ or _Mark White Ministries_ and mail to:
 
 **Rapha International Ministries**
 
