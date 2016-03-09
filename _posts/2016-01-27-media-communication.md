@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-09T04:07:05.833Z'
-dateModified: '2016-03-09T04:06:56.679Z'
+datePublished: '2016-03-09T04:16:53.492Z'
+dateModified: '2016-03-09T04:16:17.122Z'
 title: 'Media Connections!'
 author: []
 sourcePath: _posts/2016-01-27-media-communication.md
@@ -39,16 +39,12 @@ _[https://www.youtube.com/watch?v=BTvPcL38vr4 ][1]_
 
 [https://www.youtube.com/watch?v=08iVc-zGPrg&feature=share][3]
 
-[https://www.facebook.com/Mark-D-White-139696256107764/][4]
-
-[https://twitter.com/1rapha][5]
-
-[**Periscope - Mark D. White   **][5]
+[**Periscope - Mark D. White   **][4]
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/41180882-b9a7-43ad-b22e-516af94517cd.jpg)
 
-[~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~][5]
+[~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~][4]
 
-[][5]
+[][4]
 
 [][3]
 
@@ -57,11 +53,14 @@ _[https://www.youtube.com/watch?v=BTvPcL38vr4 ][1]_
 [][3]
 
 [][2]
+
+**[https://twitter.com/1rapha][4]**
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1cb4270e-9857-424f-8388-11c236d6f39f.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/7e16616c880e86a67da8b9f905f8f9bb91e4c461.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9b2706ef-9432-46a9-aa8e-5d6a2ee7ade4.jpg)
 
 [0]: https://www.youtube.com/1Jrapha
 [1]: https://www.youtube.com/watch?v=BTvPcL38vr4
 [2]: https://www.youtube.com/watch?v=xTZlLvDsZM4
 [3]: https://www.youtube.com/watch?v=08iVc-zGPrg&feature=share
-[4]: https://www.facebook.com/Mark-D-White-139696256107764/
-[5]: https://twitter.com/1rapha
+[4]: https://twitter.com/1rapha
