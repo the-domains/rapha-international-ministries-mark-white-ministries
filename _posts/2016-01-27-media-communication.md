@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: Media Connections
-datePublished: '2016-03-09T00:32:40.387Z'
-dateModified: '2016-03-09T00:32:28.990Z'
+description: ''
+datePublished: '2016-03-09T00:47:20.115Z'
+dateModified: '2016-03-09T00:32:47.598Z'
 title: 'Media Connections!'
 author: []
 sourcePath: _posts/2016-01-27-media-communication.md
