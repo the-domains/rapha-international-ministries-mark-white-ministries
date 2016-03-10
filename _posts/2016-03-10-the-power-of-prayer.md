@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-10T23:17:05.985Z'
-dateModified: '2016-03-10T23:16:58.613Z'
+datePublished: '2016-03-10T23:19:14.169Z'
+dateModified: '2016-03-10T23:18:58.426Z'
 title: 'The Power of Prayer!'
 author: []
 sourcePath: _posts/2016-03-10-the-power-of-prayer.md
@@ -23,8 +23,6 @@ _type: WebPage
 
 ---
 **The Power of Prayer!**
-
-**James 5:16 "The effectual fervent prayer of a righteous man availeth much."**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/dcbd9b23-669b-4350-b4a6-667a2e3092b4.jpg)
 
 * II
@@ -48,3 +46,5 @@ meaning praying in tongues and even praying in intercession by groaning
 as Jesus did in John 11 to raise Lazarus from the dead. . 
 
 If your in need of prayer email me at rapha@gmx.us
+
+**James 5:16 "The effectual fervent prayer of a righteous man availeth much."**
