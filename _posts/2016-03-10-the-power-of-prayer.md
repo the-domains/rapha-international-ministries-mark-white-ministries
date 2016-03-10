@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-10T23:15:45.020Z'
-dateModified: '2016-03-10T23:15:39.741Z'
+datePublished: '2016-03-10T23:16:45.516Z'
+dateModified: '2016-03-10T23:16:20.653Z'
 title: 'The Power of Prayer!'
 author: []
 sourcePath: _posts/2016-03-10-the-power-of-prayer.md
