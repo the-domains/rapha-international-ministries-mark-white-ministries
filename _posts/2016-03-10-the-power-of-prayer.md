@@ -6,28 +6,26 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-10T23:15:11.502Z'
-dateModified: '2016-03-10T23:14:59.136Z'
+datePublished: '2016-03-10T23:15:45.020Z'
+dateModified: '2016-03-10T23:15:39.741Z'
 title: 'The Power of Prayer!'
 author: []
+sourcePath: _posts/2016-03-10-the-power-of-prayer.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-10-the-power-of-prayer.md
-published: true
 url: the-power-of-prayer/index.html
 _type: WebPage
 
 ---
-The Power of Prayer!
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/dcbd9b23-669b-4350-b4a6-667a2e3092b4.jpg)
-
 **The Power of Prayer!**
 
 **James 5:16 "The effectual fervent prayer of a righteous man availeth much."**
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/dcbd9b23-669b-4350-b4a6-667a2e3092b4.jpg)
 
 * II
 Chronicles 7:14 "If my people, which are called by my name, shall 
