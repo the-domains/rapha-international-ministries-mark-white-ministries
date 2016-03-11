@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Donations
-datePublished: '2016-03-11T02:32:39.385Z'
-dateModified: '2016-03-11T02:31:12.659Z'
+datePublished: '2016-03-11T22:00:51.115Z'
+dateModified: '2016-03-11T22:00:45.433Z'
 title: 'Family & Friends!'
 author: []
 sourcePath: _posts/2016-01-27-become-a-part-of-our.md
@@ -30,7 +30,7 @@ nation around the world the powers of darkness are destroyed. We appreciate thos
 
 You are our God given Family and Friends. You are those which take hold of the vision in helping us be watchmen on the wall for Gods people. With your help and the power of the Holy Spirit. We are reaching nations while changing lives of thousands. Thank you for helping us reach a million souls. Because of you,  we will make disciples while raising up leaders. We will do the works of Jesus by precept and example. We can do this with your help! 
 
-Your deep commitment of support, helps keep a watchman on the wall continually! Those that want to invest in the public display of the words and power Jesus can support us monthly at this address.
+Your deep commitment of support helps keep a watchman on the wall continually! Those that want to invest in the public display of the words and power Jesus can support us monthly at this address.
 
 **You can help in the Harvest of Souls and lives being changed. **
 
@@ -38,4 +38,4 @@ In your donations make your checks payable to _Rapha International Ministries_ o
 
 **Rapha International Ministries**
 
-**1412 Lyon Street. Columbia, Tennessee 38401      USA**
+**1412 Lyon Street. Columbia, Tennessee 38401  USA**
