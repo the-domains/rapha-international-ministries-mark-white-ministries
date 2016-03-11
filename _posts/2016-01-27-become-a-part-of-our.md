@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Donations
-datePublished: '2016-03-09T19:10:41.258Z'
-dateModified: '2016-03-09T19:10:38.520Z'
+datePublished: '2016-03-11T02:32:39.385Z'
+dateModified: '2016-03-11T02:31:12.659Z'
 title: 'Family & Friends!'
 author: []
 sourcePath: _posts/2016-01-27-become-a-part-of-our.md
@@ -24,7 +24,7 @@ _type: WebPage
 ---
 **Donations**
 
-We thank God for those which support us in prayer and finances. It is very costly and takes a lot of finances to travel, hold crusades, minister to ministers in changing lives.  With your power of agreement, the Glory of God is released in changing 
+We thank God for those which support us in prayer and finances. It is very costly and takes a lot of finances to travel, hold crusades, minister to ministers to changing lives.  With your power of agreement, the Glory of God is released in changing 
 lives. We are taking miracles and healings to individuals and to the thousands. From nation to 
 nation around the world the powers of darkness are destroyed. We appreciate those that support us in the power of prayer and with financial support. ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/b4af49869f129da42e3011ebe58962e292515e88.jpg)
 
