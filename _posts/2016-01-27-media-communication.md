@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-11T21:09:32.587Z'
-dateModified: '2016-03-11T21:09:29.140Z'
+datePublished: '2016-03-12T10:49:08.303Z'
+dateModified: '2016-03-12T10:49:02.472Z'
 title: 'Media Connections!'
 author: []
 sourcePath: _posts/2016-01-27-media-communication.md
@@ -29,15 +29,18 @@ _type: WebPage
 **Media Connections!**
 
 **We are pursuing every possible avenue in reaching around the world with the Word of God and the Power of His Holy Spirit. ****We have over 70 videos available for your viewing at this link. **
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/fbbc14d8cd418613d0a6278ca242aac5adf5047d.jpg)
+
+**YouTube.com**
 
 [_https://www.youtube.com/1Jrapha _][0]
 
 _[https://www.youtube.com/watch?v=BTvPcL38vr4 ][1]_
 
-[https://www.youtube.com/watch?v=xTZlLvDsZM4][2]
+_[https://www.youtube.com/watch?v=xTZlLvDsZM4][2]_
 
-[https://www.youtube.com/watch?v=08iVc-zGPrg&feature=share][3]
+_[https://www.youtube.com/watch?v=08iVc-zGPrg&feature=share][3]_
+
+[**Facebook**_https://www.facebook.com/Mark-D-White-141033265989400/_][3]
 
 [**Periscope - Mark D. White   **][4]
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/8ab93360d5b8a287df112cbd4c740ce9cea1721a.jpg)
@@ -55,10 +58,9 @@ _[https://www.youtube.com/watch?v=BTvPcL38vr4 ][1]_
 [][2]
 
 **[https://twitter.com/1rapha][4]**
+
+**[---------------------------------------------------------------------------------][4]**
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/7e16616c880e86a67da8b9f905f8f9bb91e4c461.png)
-
-  
-
 
 [0]: https://www.youtube.com/1Jrapha
 [1]: https://www.youtube.com/watch?v=BTvPcL38vr4
