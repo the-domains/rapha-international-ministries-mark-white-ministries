@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-14T17:13:29.603Z'
-dateModified: '2016-03-14T17:13:25.688Z'
+datePublished: '2016-03-14T19:32:25.841Z'
+dateModified: '2016-03-14T19:32:20.912Z'
 title: 'Media Connections!'
 author: []
 sourcePath: _posts/2016-01-27-media-communication.md
@@ -34,39 +34,44 @@ _type: WebPage
 
 [_https://www.youtube.com/1Jrapha _][0]
 
-_[https://www.youtube.com/watch?v=BTvPcL38vr4 ][1]_
+[_**This is most recent message "The Responsibility of Honor"**_][0]
 
-_[https://www.youtube.com/watch?v=xTZlLvDsZM4][2]_
+[_https://www.youtube.com/watch?v=Gh52G-VzBAE&feature=share_][1]
 
-_[https://www.youtube.com/watch?v=08iVc-zGPrg&feature=share][3]_
+_[https://www.youtube.com/watch?v=BTvPcL38vr4 ][2]_
 
-[**Facebook**__][3]
+_[https://www.youtube.com/watch?v=xTZlLvDsZM4][3]_
 
-[_https://www.facebook.com/Mark-D-White-141033265989400/_][3]
+_[https://www.youtube.com/watch?v=08iVc-zGPrg&feature=share][4]_
 
-[**Periscope - Mark D. White   **][4]
+[**Facebook**__][4]
 
-[****][4]
+[_https://www.facebook.com/Mark-D-White-141033265989400/_][4]
 
-[~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~][4]
+[**Periscope - Mark D. White   **][5]
+
+[****][5]
+
+[~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~][5]
+
+[][5]
+
+[][4]
+
+[][4]
 
 [][4]
 
 [][3]
 
-[][3]
+**[https://twitter.com/1rapha][5]**
 
-[][3]
-
-[][2]
-
-**[https://twitter.com/1rapha][4]**
-
-**[---------------------------------------------------------------------------------][4]**
+**[---------------------------------------------------------------------------------][5]**
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/7e16616c880e86a67da8b9f905f8f9bb91e4c461.png)
 
 [0]: https://www.youtube.com/1Jrapha
-[1]: https://www.youtube.com/watch?v=BTvPcL38vr4
-[2]: https://www.youtube.com/watch?v=xTZlLvDsZM4
-[3]: https://www.youtube.com/watch?v=08iVc-zGPrg&feature=share
-[4]: https://twitter.com/1rapha
+[1]: https://www.youtube.com/watch?v=Gh52G-VzBAE&feature=share
+[2]: https://www.youtube.com/watch?v=BTvPcL38vr4
+[3]: https://www.youtube.com/watch?v=xTZlLvDsZM4
+[4]: https://www.youtube.com/watch?v=08iVc-zGPrg&feature=share
+[5]: https://twitter.com/1rapha
