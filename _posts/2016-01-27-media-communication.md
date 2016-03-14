@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-14T16:31:14.055Z'
-dateModified: '2016-03-14T16:31:09.197Z'
+datePublished: '2016-03-14T17:12:55.533Z'
+dateModified: '2016-03-14T17:12:54.796Z'
 title: 'Media Connections!'
 author: []
 sourcePath: _posts/2016-01-27-media-communication.md
@@ -47,7 +47,6 @@ _[https://www.youtube.com/watch?v=08iVc-zGPrg&feature=share][3]_
 [**Periscope - Mark D. White   **][4]
 
 [****][4]
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/8ab93360d5b8a287df112cbd4c740ce9cea1721a.jpg)
 
 [~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~][4]
 
