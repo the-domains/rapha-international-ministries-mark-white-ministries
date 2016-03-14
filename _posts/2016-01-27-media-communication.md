@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-14T17:12:55.533Z'
-dateModified: '2016-03-14T17:12:54.796Z'
+datePublished: '2016-03-14T17:13:29.603Z'
+dateModified: '2016-03-14T17:13:25.688Z'
 title: 'Media Connections!'
 author: []
 sourcePath: _posts/2016-01-27-media-communication.md
