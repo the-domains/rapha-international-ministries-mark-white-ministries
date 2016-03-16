@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Media Connections!'
-datePublished: '2016-03-16T16:52:26.307Z'
-dateModified: '2016-03-16T16:52:24.756Z'
-title: '"The Price for Living in the Glory" '
+datePublished: '2016-03-16T17:07:47.862Z'
+dateModified: '2016-03-16T17:07:00.310Z'
+title: "The Price for Living in the Glory ~ 3316\n      "
 author: []
 sourcePath: _posts/2016-01-27-media-communication.md
 published: true
@@ -38,11 +38,13 @@ _type: WebPage
 
 [_https://www.youtube.com/watch?v=FbkbNwAJyp4&feature=youtu.be_][0]
 
-[_**This is a powerful word "The Responsibility of Honor"**_][0]
+[_**"The Responsibility of Honor"**_][0]
 
 [_https://www.youtube.com/watch?v=Gh52G-VzBAE&feature=share_][1]
 
-**"The Price for Living in the Glory"**
+# 
+
+* The Price for Living in the Glory ~ 3316
 
 [_https://www.youtube.com/watch?v=YgzLI\_KyoEI_][1]
 
