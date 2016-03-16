@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-14T19:32:25.841Z'
-dateModified: '2016-03-14T19:32:20.912Z'
+datePublished: '2016-03-16T16:49:26.146Z'
+dateModified: '2016-03-16T16:49:20.488Z'
 title: 'Media Connections!'
 author: []
 sourcePath: _posts/2016-01-27-media-communication.md
@@ -34,7 +34,11 @@ _type: WebPage
 
 [_https://www.youtube.com/1Jrapha _][0]
 
-[_**This is most recent message "The Responsibility of Honor"**_][0]
+[_**This message was preached in Paris, France**_][0]
+
+[_https://www.youtube.com/watch?v=FbkbNwAJyp4&feature=youtu.be_][0]
+
+[_**This is a powerful word "The Responsibility of Honor"**_][0]
 
 [_https://www.youtube.com/watch?v=Gh52G-VzBAE&feature=share_][1]
 
