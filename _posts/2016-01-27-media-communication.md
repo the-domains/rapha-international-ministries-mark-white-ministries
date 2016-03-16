@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Media Connections!'
-datePublished: '2016-03-16T17:09:11.025Z'
-dateModified: '2016-03-16T17:08:50.279Z'
+datePublished: '2016-03-16T17:09:39.737Z'
+dateModified: '2016-03-16T17:09:15.789Z'
 title: "The Price for Living in the Glory ~ 3316\n      "
 author: []
 sourcePath: _posts/2016-01-27-media-communication.md
