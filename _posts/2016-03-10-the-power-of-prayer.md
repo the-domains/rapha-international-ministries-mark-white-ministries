@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-25T22:44:06.266Z'
-dateModified: '2016-03-25T22:43:53.185Z'
+datePublished: '2016-03-25T22:44:59.976Z'
+dateModified: '2016-03-25T22:44:54.305Z'
 title: 'The Power of Prayer!'
 author: []
 sourcePath: _posts/2016-03-10-the-power-of-prayer.md
@@ -29,8 +29,8 @@ _type: WebPage
 Chronicles 7:14 "If my people, which are called by my name, shall 
 humble themselves, and pray, and seek my face, and turn from their 
 wicked ways; then will I hear from heaven, and will forgive their sin, 
-and will heal their land."
-* * **[I John 5:14,15 "And this is the confidence that we have in him, that, if we ask any thing according to his will, he heareth us: And if we know that he hear us, whatsoever we ask, we know that we have the petitions that we desired of him."][0]**
+and will heal their land. 
+* I John 5:14,15 "And this is the confidence that we have in him, that, if we ask any thing according to his will, he heareth us: And if we know that he hear us, whatsoever we ask, we know that we have the petitions that we desired of him."
 
 It
 is our heart and the foundation of this ministry to put prayer as the 
@@ -51,5 +51,3 @@ If your in need of prayer email me at rapha@gmx.us
 **James 5:16 "The effectual fervent prayer of a righteous man availeth much."**
 
 ****
-
-[0]: null
