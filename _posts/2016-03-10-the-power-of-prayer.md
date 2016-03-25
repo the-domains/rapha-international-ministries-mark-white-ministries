@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-25T22:44:59.976Z'
-dateModified: '2016-03-25T22:44:54.305Z'
+datePublished: '2016-03-25T22:48:51.797Z'
+dateModified: '2016-03-25T22:48:48.121Z'
 title: 'The Power of Prayer!'
 author: []
 sourcePath: _posts/2016-03-10-the-power-of-prayer.md
@@ -29,7 +29,7 @@ _type: WebPage
 Chronicles 7:14 "If my people, which are called by my name, shall 
 humble themselves, and pray, and seek my face, and turn from their 
 wicked ways; then will I hear from heaven, and will forgive their sin, 
-and will heal their land. 
+and will heal their land.                                                              __
 * I John 5:14,15 "And this is the confidence that we have in him, that, if we ask any thing according to his will, he heareth us: And if we know that he hear us, whatsoever we ask, we know that we have the petitions that we desired of him."
 
 It
