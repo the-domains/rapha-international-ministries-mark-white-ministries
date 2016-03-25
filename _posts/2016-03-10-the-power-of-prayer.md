@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-11T23:25:14.813Z'
-dateModified: '2016-03-11T23:25:14.477Z'
+datePublished: '2016-03-25T22:39:47.340Z'
+dateModified: '2016-03-25T22:39:11.776Z'
 title: 'The Power of Prayer!'
 author: []
 sourcePath: _posts/2016-03-10-the-power-of-prayer.md
@@ -30,6 +30,7 @@ Chronicles 7:14 "If my people, which are called by my name, shall
 humble themselves, and pray, and seek my face, and turn from their 
 wicked ways; then will I hear from heaven, and will forgive their sin, 
 and will heal their land."
+* I John 5:14, 15[And this is the confidence that we have in him, that, if we ask any thing according to his will, he heareth us: ][0]15[And if we know that he hear us, whatsoever we ask, we know that we have the petitions that we desired of him.][1]
 
 It
 is our heart and the foundation of this ministry to put prayer as the 
@@ -48,3 +49,8 @@ as Jesus did in John 11 to raise Lazarus from the dead. .
 If your in need of prayer email me at rapha@gmx.us
 
 **James 5:16 "The effectual fervent prayer of a righteous man availeth much."**
+
+****
+
+[0]: http://www.kingjamesbibleonline.org/1-John-5-14/ "CLICK FOR MORE TRANSLATIONS of 1 John 5:14- And this is the confidence that we have in him, that, if we ask any thing according to his will, he heareth us:"
+[1]: http://www.kingjamesbibleonline.org/1-John-5-15/ "CLICK FOR MORE TRANSLATIONS of 1 John 5:15- And if we know that he hear us, whatsoever we ask, we know that we have the petitions that we desired of him."
