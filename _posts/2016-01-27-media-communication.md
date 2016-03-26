@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-16T17:14:20.953Z'
-dateModified: '2016-03-16T17:14:14.316Z'
+datePublished: '2016-03-26T21:56:34.759Z'
+dateModified: '2016-03-26T21:56:34.204Z'
 title: 'Media Connections!'
 author: []
 sourcePath: _posts/2016-01-27-media-communication.md
@@ -38,6 +38,10 @@ _type: WebPage
 
 [_https://www.youtube.com/watch?v=FbkbNwAJyp4&feature=youtu.be_][0]
 
+[__][0]
+
+https://youtu.be/YgzLI\_KyoEI
+
 [_https://www.youtube.com/watch?v=Gh52G-VzBAE&feature=share_][1]
 
 [_https://www.youtube.com/watch?v=YgzLI\_KyoEI_][1]
@@ -67,6 +71,8 @@ _[https://www.youtube.com/watch?v=08iVc-zGPrg&feature=share][4]_
 [][4]
 
 [][3]
+
+**[Twitter][5]**
 
 **[https://twitter.com/1rapha][5]**
 
