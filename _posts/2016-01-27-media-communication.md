@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-26T21:57:21.434Z'
-dateModified: '2016-03-26T21:57:07.702Z'
+datePublished: '2016-03-26T22:01:09.394Z'
+dateModified: '2016-03-26T22:00:04.836Z'
 title: 'Media Connections!'
 author: []
 sourcePath: _posts/2016-01-27-media-communication.md
@@ -40,49 +40,46 @@ _type: WebPage
 
 [__][0]
 
-[https://youtu.be/YgzLI\_KyoEI][1]
+[_https://www.youtube.com/watch?v=Gh52G-VzBAE&feature=share_][1]
 
-[_https://www.youtube.com/watch?v=Gh52G-VzBAE&feature=share_][2]
+[_https://www.youtube.com/watch?v=YgzLI\_KyoEI_][1]
 
-[_https://www.youtube.com/watch?v=YgzLI\_KyoEI_][2]
+_[https://www.youtube.com/watch?v=BTvPcL38vr4 ][2]_
 
-_[https://www.youtube.com/watch?v=BTvPcL38vr4 ][3]_
+_[https://www.youtube.com/watch?v=xTZlLvDsZM4][3]_
 
-_[https://www.youtube.com/watch?v=xTZlLvDsZM4][4]_
+_[https://www.youtube.com/watch?v=08iVc-zGPrg&feature=share][4]_
 
-_[https://www.youtube.com/watch?v=08iVc-zGPrg&feature=share][5]_
+[**Facebook**__][4]
 
-[**Facebook**__][5]
+[_https://www.facebook.com/Mark-D-White-141033265989400/_][4]
 
-[_https://www.facebook.com/Mark-D-White-141033265989400/_][5]
+[**Periscope - Mark D. White   **][5]
 
-[**Periscope - Mark D. White   **][6]
+[****][5]
 
-[****][6]
-
-[~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~][6]
-
-[][6]
-
-[][5]
-
-[][5]
+[~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~][5]
 
 [][5]
 
 [][4]
 
-**[Twitter][6]**
+[][4]
 
-**[https://twitter.com/1rapha][6]**
+[][4]
 
-**[---------------------------------------------------------------------------------][6]**
+[][3]
+
+**[Twitter][5]**
+
+**[https://twitter.com/1rapha][5]**
+
+**[---------------------------------------------------------------------------------][5]**
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/7e16616c880e86a67da8b9f905f8f9bb91e4c461.png)
 
 [0]: https://www.youtube.com/1Jrapha
-[1]: https://youtu.be/YgzLI_KyoEI
-[2]: https://www.youtube.com/watch?v=Gh52G-VzBAE&feature=share
-[3]: https://www.youtube.com/watch?v=BTvPcL38vr4
-[4]: https://www.youtube.com/watch?v=xTZlLvDsZM4
-[5]: https://www.youtube.com/watch?v=08iVc-zGPrg&feature=share
-[6]: https://twitter.com/1rapha
+[1]: https://www.youtube.com/watch?v=Gh52G-VzBAE&feature=share
+[2]: https://www.youtube.com/watch?v=BTvPcL38vr4
+[3]: https://www.youtube.com/watch?v=xTZlLvDsZM4
+[4]: https://www.youtube.com/watch?v=08iVc-zGPrg&feature=share
+[5]: https://twitter.com/1rapha
