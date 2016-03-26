@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-26T22:01:09.394Z'
-dateModified: '2016-03-26T22:00:04.836Z'
+datePublished: '2016-03-26T22:03:39.329Z'
+dateModified: '2016-03-26T22:03:37.120Z'
 title: 'Media Connections!'
 author: []
 sourcePath: _posts/2016-01-27-media-communication.md
@@ -40,7 +40,9 @@ _type: WebPage
 
 [__][0]
 
-[_https://www.youtube.com/watch?v=Gh52G-VzBAE&feature=share_][1]
+[__][1]
+
+https://youtu.be/2\_vfBJqx-OQ
 
 [_https://www.youtube.com/watch?v=YgzLI\_KyoEI_][1]
 
