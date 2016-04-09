@@ -5,10 +5,11 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-03-26T22:05:44.570Z'
-dateModified: '2016-03-26T22:05:39.625Z'
-title: 'Media Connections!'
+description: 'Media Connections!'
+datePublished: '2016-04-09T21:48:14.936Z'
+dateModified: '2016-04-09T21:48:11.790Z'
+title: |
+  Prophet Mark D White ~ Your Next Level Depends on Revelatory 432016
 author: []
 sourcePath: _posts/2016-01-27-media-communication.md
 published: true
@@ -34,55 +35,66 @@ _type: WebPage
 
 [_https://www.youtube.com/1Jrapha _][0]
 
+[**A most recent message**][1]_[....][1]_
+
+__
+
+**Prophet Mark D White ~ Your Next Level Depends on Revelatory 432016
+**
+
+[_https://youtu.be/FJLfBjixKWE_][2]
+
 [_**This message was preached in Paris, France**_][0]
 
 [_https://www.youtube.com/watch?v=FbkbNwAJyp4&feature=youtu.be_][0]
 
 [__][0]
 
-[__][1]
+[__][3]
 
-[https://youtu.be/2\_vfBJqx-OQ][2]
+[https://youtu.be/2\_vfBJqx-OQ][4]
 
-[_https://www.youtube.com/watch?v=YgzLI\_KyoEI_][1]
+[_https://www.youtube.com/watch?v=YgzLI\_KyoEI_][3]
 
-_[https://www.youtube.com/watch?v=BTvPcL38vr4 ][3]_
+_[https://www.youtube.com/watch?v=BTvPcL38vr4 ][5]_
 
-_[https://www.youtube.com/watch?v=xTZlLvDsZM4][4]_
+_[https://www.youtube.com/watch?v=xTZlLvDsZM4][6]_
 
-_[https://www.youtube.com/watch?v=08iVc-zGPrg&feature=share][5]_
+_[https://www.youtube.com/watch?v=08iVc-zGPrg&feature=share][7]_
 
-[**Facebook**__][5]
+[**Facebook**__][7]
 
-[_https://www.facebook.com/Mark-D-White-141033265989400/_][5]
+[_https://www.facebook.com/Mark-D-White-141033265989400/_][7]
 
-[**Periscope - Mark D. White   **][6]
+[**Periscope - Mark D. White   **][8]
 
-[****][6]
+[****][8]
 
-[~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~][6]
+[~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~][8]
+
+[][8]
+
+[][7]
+
+[][7]
+
+[][7]
 
 [][6]
 
-[][5]
+**[Twitter][8]**
 
-[][5]
+**[https://twitter.com/1rapha][8]**
 
-[][5]
-
-[][4]
-
-**[Twitter][6]**
-
-**[https://twitter.com/1rapha][6]**
-
-**[---------------------------------------------------------------------------------][6]**
+**[---------------------------------------------------------------------------------][8]**
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/7e16616c880e86a67da8b9f905f8f9bb91e4c461.png)
 
 [0]: https://www.youtube.com/1Jrapha
-[1]: https://www.youtube.com/watch?v=Gh52G-VzBAE&feature=share
-[2]: https://youtu.be/2_vfBJqx-OQ
-[3]: https://www.youtube.com/watch?v=BTvPcL38vr4
-[4]: https://www.youtube.com/watch?v=xTZlLvDsZM4
-[5]: https://www.youtube.com/watch?v=08iVc-zGPrg&feature=share
-[6]: https://twitter.com/1rapha
+[1]: null
+[2]: https://youtu.be/FJLfBjixKWE
+[3]: https://www.youtube.com/watch?v=Gh52G-VzBAE&feature=share
+[4]: https://youtu.be/2_vfBJqx-OQ
+[5]: https://www.youtube.com/watch?v=BTvPcL38vr4
+[6]: https://www.youtube.com/watch?v=xTZlLvDsZM4
+[7]: https://www.youtube.com/watch?v=08iVc-zGPrg&feature=share
+[8]: https://twitter.com/1rapha
