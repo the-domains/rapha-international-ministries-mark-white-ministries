@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-25T22:48:51.797Z'
-dateModified: '2016-03-25T22:48:48.121Z'
+datePublished: '2016-04-09T21:49:11.876Z'
+dateModified: '2016-04-09T21:49:11.101Z'
 title: 'The Power of Prayer!'
 author: []
 sourcePath: _posts/2016-03-10-the-power-of-prayer.md
@@ -46,8 +46,10 @@ can only be done by praying the word of God and praying in the Spirit,
 meaning praying in tongues and even praying in intercession by groaning 
 as Jesus did in John 11 to raise Lazarus from the dead. . 
 
-If your in need of prayer email me at rapha@gmx.us
+If your in need of prayer email me at [rapha@gmx.us][0]
 
 **James 5:16 "The effectual fervent prayer of a righteous man availeth much."**
 
 ****
+
+[0]: rapha@gmx.us
