@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-09T21:52:07.493Z'
-dateModified: '2016-04-09T21:52:00.528Z'
+datePublished: '2016-04-09T22:49:03.301Z'
+dateModified: '2016-04-09T22:48:59.042Z'
 title: 'Media Connections!'
 author: []
 sourcePath: _posts/2016-01-27-media-communication.md
@@ -38,7 +38,7 @@ _type: WebPage
 
 __
 
-**Prophet Mark D White ~ Your Next Level Depends on Revelatory 432016    ~     **[_https://youtu.be/FJLfBjixKWE_][2]
+* Prophet Mark D White ~ Your Next Level Depends on Revelatory 432016 **~     **[_https://youtu.be/FJLfBjixKWE_][2]
 
 [_**This message was preached in Paris, France**_][0]
 
