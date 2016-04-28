@@ -3,13 +3,14 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-09T22:49:03.301Z'
-dateModified: '2016-04-09T22:48:59.042Z'
-title: 'Media Connections!'
-author: []
+datePublished: '2016-04-28T22:36:09.152Z'
+dateModified: '2016-04-28T22:36:08.630Z'
+title: ''
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-01-27-media-communication.md
 published: true
 authors: []
@@ -18,6 +19,7 @@ publisher:
   domain: null
   url: null
   favicon: null
+starred: false
 url: media-communication/index.html
 _type: WebPage
 
@@ -38,7 +40,7 @@ _type: WebPage
 
 __
 
-* Prophet Mark D White ~ Your Next Level Depends on Revelatory 432016 **~     **[_https://youtu.be/FJLfBjixKWE_][2]
+* Prophet Mark D White ~ Your Next Level Depends on Revelatory 432016 **~ **[_https://youtu.be/FJLfBjixKWE_][2]
 
 [_**This message was preached in Paris, France**_][0]
 
@@ -62,7 +64,7 @@ _[https://www.youtube.com/watch?v=08iVc-zGPrg&feature=share][7]_
 
 [_https://www.facebook.com/Mark-D-White-141033265989400/_][7]
 
-[**Periscope - Mark D. White   **][8]
+[**Periscope - Mark D. White **][8]
 
 [****][8]
 
