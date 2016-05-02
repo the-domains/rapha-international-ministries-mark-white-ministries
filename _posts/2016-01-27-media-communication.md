@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-02T02:43:26.486Z'
-dateModified: '2016-05-02T02:42:37.992Z'
+datePublished: '2016-05-02T02:44:59.866Z'
+dateModified: '2016-05-02T02:44:50.893Z'
 title: ''
 author:
   - name: ''
@@ -38,13 +38,13 @@ _type: WebPage
 
 [**A most recent message**][1]_[....][1]_
 
-[_Prophet Mark D White ~ https://www.youtube.com/watch?v=nBQkpQY8LxM&feature=youtu.be_][2]
+_[][1][Prophet Mark D White ~ ][2]We Are Being Changed into What Don't Change[~ 5116][2]_
 
-_[A now word for the great move of God that is happening right now!5116][1]_
+[_Prophet Mark D White ~ https://www.youtube.com/watch?v=nBQkpQY8LxM&feature=youtu.be_][3]
 
 __
 
-* Prophet Mark D White ~ Your Next Level Depends on Revelatory 432016 **~ **[_https://youtu.be/FJLfBjixKWE_][3]
+* Prophet Mark D White ~ Your Next Level Depends on Revelatory 432016 **~ **[_https://youtu.be/FJLfBjixKWE_][4]
 
 [_**This message was preached in Paris, France**_][0]
 
@@ -52,52 +52,53 @@ __
 
 [__][0]
 
-[__][4]
+[__][5]
 
-[https://youtu.be/2\_vfBJqx-OQ][5]
+[https://youtu.be/2\_vfBJqx-OQ][6]
 
-[_https://www.youtube.com/watch?v=YgzLI\_KyoEI_][4]
+[_https://www.youtube.com/watch?v=YgzLI\_KyoEI_][5]
 
-_[https://www.youtube.com/watch?v=BTvPcL38vr4 ][6]_
+_[https://www.youtube.com/watch?v=BTvPcL38vr4 ][7]_
 
-_[https://www.youtube.com/watch?v=xTZlLvDsZM4][7]_
+_[https://www.youtube.com/watch?v=xTZlLvDsZM4][8]_
 
-_[https://www.youtube.com/watch?v=08iVc-zGPrg&feature=share][8]_
+_[https://www.youtube.com/watch?v=08iVc-zGPrg&feature=share][9]_
 
-[**Facebook**__][8]
+[**Facebook**__][9]
 
-[_https://www.facebook.com/Mark-D-White-141033265989400/_][8]
+[_https://www.facebook.com/Mark-D-White-141033265989400/_][9]
 
-[**Periscope - Mark D. White **][9]
+[**Periscope - Mark D. White **][10]
 
-[****][9]
+[****][10]
 
-[~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~][9]
+[~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~][10]
+
+[][10]
+
+[][9]
+
+[][9]
 
 [][9]
 
 [][8]
 
-[][8]
+**[Twitter][10]**
 
-[][8]
+**[https://twitter.com/1rapha][10]**
 
-[][7]
-
-**[Twitter][9]**
-
-**[https://twitter.com/1rapha][9]**
-
-**[---------------------------------------------------------------------------------][9]**
+**[---------------------------------------------------------------------------------][10]**
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/7e16616c880e86a67da8b9f905f8f9bb91e4c461.png)
 
 [0]: https://www.youtube.com/1Jrapha
 [1]: null
-[2]: https://www.youtube.com/watch?v=nBQkpQY8LxM&feature=youtu.be
-[3]: https://youtu.be/FJLfBjixKWE
-[4]: https://www.youtube.com/watch?v=Gh52G-VzBAE&feature=share
-[5]: https://youtu.be/2_vfBJqx-OQ
-[6]: https://www.youtube.com/watch?v=BTvPcL38vr4
-[7]: https://www.youtube.com/watch?v=xTZlLvDsZM4
-[8]: https://www.youtube.com/watch?v=08iVc-zGPrg&feature=share
-[9]: https://twitter.com/1rapha
+[2]: https://www.youtube.com/attribution_link?a=NpX1sjIxMIY&u=%2Fwatch%3Fv%3DnBQkpQY8LxM%26feature%3Dshare
+[3]: https://www.youtube.com/watch?v=nBQkpQY8LxM&feature=youtu.be
+[4]: https://youtu.be/FJLfBjixKWE
+[5]: https://www.youtube.com/watch?v=Gh52G-VzBAE&feature=share
+[6]: https://youtu.be/2_vfBJqx-OQ
+[7]: https://www.youtube.com/watch?v=BTvPcL38vr4
+[8]: https://www.youtube.com/watch?v=xTZlLvDsZM4
+[9]: https://www.youtube.com/watch?v=08iVc-zGPrg&feature=share
+[10]: https://twitter.com/1rapha
