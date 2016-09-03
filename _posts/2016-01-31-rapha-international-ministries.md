@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: '"Doing the works of Jesus by precept and example."'
-datePublished: '2016-08-31T15:03:03.659Z'
-dateModified: '2016-08-31T15:02:47.538Z'
+datePublished: '2016-08-31T15:10:44.992Z'
+dateModified: '2016-08-31T15:10:44.515Z'
 title: ''
 author: []
 sourcePath: _posts/2016-01-31-rapha-international-ministries.md
