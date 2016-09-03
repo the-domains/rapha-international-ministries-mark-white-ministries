@@ -1,6 +1,6 @@
 name: 'Rapha International  '
 favicon: null
-layout_spectrum: 0.15072
+layout_spectrum: 0.43412
 typography_spectrum: 0.68863
 title: 'Rapha International '
 cta:
@@ -22,8 +22,8 @@ color:
     - '#c87549'
     - '#ddbe85'
     - '#1402b8'
-  brandStrength: 0.6875
-  lightness: 0.4375
+  brandStrength: 0.4375
+  lightness: 0.25
   saturation: 0.375
-  rhythmicContrast: 0.75
+  rhythmicContrast: 0.25
 purpose: []
